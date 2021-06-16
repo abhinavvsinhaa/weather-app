@@ -8,4 +8,4 @@ Weather Forecast web-app. The app will give information about:
   5. Cloud percentage
   6. Wind Speed (m/s)
 
-Coded this in ReactJS using OpenWeather's API.
+Coded in ReactJS using OpenWeather's API.
